@@ -78,7 +78,7 @@
 1. **线路质量和中转类型**：
    线路的中转方式对机场的速度、延迟、稳定性影响显著。IEPL专线 > 隧道公网中转 > 直连线路。**专线机场**通常表现更优，因为它们不会绕路，延迟低、速度稳定。高质量的中转线路（尤其是多中转）和足够的带宽是好机场的基础。小机场多用便宜转发，虽然价格低但稳定性差，可能无力应对高流量和网络攻击。
 
-   <img url=https://raw.githubusercontent.com/Yang-SyZng/Skipping-the-Fucking-GFW/refs/heads/main/Pictures/2.webp>
+   ![线路区别](https://raw.githubusercontent.com/Yang-SyZng/Skipping-the-Fucking-GFW/refs/heads/main/Pictures/2.webp)
 
 2. **避免跑路风险**：
    **优先选择老牌大机场**，因为大机场有更多资金维护好的线路，且常常有高防御来应对DDoS攻击。小机场跑路的风险更高，尤其是刚起步、以低价吸引用户的。推荐初期以月付为主，观察服务的稳定性。注意那些在 Telegram 上过于高调宣传的机场，因为容易引起攻击和监管的关注。
