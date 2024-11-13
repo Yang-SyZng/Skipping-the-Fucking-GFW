@@ -8,9 +8,9 @@
 ---
 ## 目录
 - [背景介绍](#背景介绍)
-- [方法](#方法)
+- [推荐内容](#方法)
   - [代理客户端推荐](#代理客户端推荐)
-  - [机场推荐](#机场推荐)
+  - [机场推荐（没有推荐机场！！）](#机场推荐)
     - [⚠忠告⚠](#忠告)
     - [选择机场的经验](#选择机场的经验)
  - [使用方法](#使用方法) 
@@ -56,7 +56,7 @@
    
    (仅代表个人在使用过程中的体验所给出的评价)
    
-   |                           Windows                            |         备注&评级          |                            Linux                             |              | MacOS |      |                       iOS (需外服账号)                       |                          |                           Android                            |                            |                   HarmonyOS NEXT (需侧载)                    |
+   | Windows | 备注&评级|   Linux  |  备注&评级   | MacOS |  备注&评级 |iOS (需外服账号)|    备注&评级  |    Android   |  备注&评级     |                   HarmonyOS NEXT (需侧载)                    |
    | :----------------------------------------------------------: | :------------------------: | :----------------------------------------------------------: | :----------: | ----- | :--: | :----------------------------------------------------------: | :----------------------: | :----------------------------------------------------------: | :------------------------: | :----------------------------------------------------------: |
    | [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) |        (free)★★★★★        | [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) | (free)★★★★★ |       | (free)★★★★★ | [shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) | ($2.99)★★★★★  | [NekoBox For Android](https://github.com/MatsuriDayo/NekoBoxForAndroid) |        (free)★★★★★        | [Clash Meta for Android](https://github.com/likuai2010/ClashMeta) (不评级) |
    |      [NekoRay](https://github.com/MatsuriDayo/nekoray)       |        (free)★★★★☆        |      [NekoRay](https://github.com/MatsuriDayo/nekoray)       | (free)★★★★☆ |       |      |   [Loon](https://apps.apple.com/us/app/loon/id1373567447)    | ($5.99)★★★★★  |    [SurfBord](https://github.com/getsurfboard/surfboard)     |        (free)★★★★☆        |                                                              |
